@@ -5,4 +5,4 @@ https://hsooooou.github.io/meiden-ar-vr.github.io<br>
 
 
 パンフレット<br>
-https://github.com/hsooooou.github.io/club_ar.github.io
+https://github.com/hsooooou/club_ar.github.io
