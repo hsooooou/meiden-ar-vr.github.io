@@ -1,7 +1,7 @@
 # meiden-ar-vr.io
 
 このリポジトリのリンク<br>
-https://hsooooou.github.io/meiden-ar-vr.github.io<br>
+https://hsooooou.github.io/meiden-ar-vr.io<br>
 
 
 パンフレット<br>
