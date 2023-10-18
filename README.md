@@ -1,4 +1,4 @@
 # meiden-ar-vr.io
 
 パンフレット
-https://hsooooou.github.io/ar_club.github.io
+https://hsooooou.github.io/club_ar.github.io
