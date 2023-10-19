@@ -1,0 +1,210 @@
+#wrapper {
+  width: 375px;
+}
+
+.fa {
+  background-color: gray
+}
+
+.se {
+  background-color: #f5f185;
+  text-align: center;
+  padding: 110px;
+}
+
+.midasi50 {
+  font-weight: bold;
+}
+
+.honbun {
+  font-family: 筑紫A丸ゴシック;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.midasi50 {
+  font-family: ヒラギノ角ゴ Std;
+  font-size: 50px;
+  padding-top: 70px;
+}
+
+.footer {
+  background-color: #efea3a;
+  text-align: center;
+  font-family: 筑紫A丸ゴシック;
+  font-weight: bold;
+  font-size: 48px;
+  padding: 50px 0;
+}
+
+.footer p {
+  padding-top: 40px;
+  border-bottom: #231815 3px solid;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.footer li {
+  margin : 40px 0 40px 0;
+}
+
+.footer a {
+  font-size: 36px;
+  color: #231815;
+}
+
+#container {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 40px;
+  background: #efea3a;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+.meiden {
+  color: #40266f;
+  font-family: ヒラギノ角ゴ std;
+  padding-bottom: 10px;
+}
+
+.fi {
+  font-family: ヒラギノ角ゴ std;
+  padding: 40px;
+}
+
+.naiyou {
+  font-family: 筑紫A丸ゴシック;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.midasi {
+  font-size: 70px;
+}
+
+.english {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 13px;
+}
+
+.fo {
+  background-color: #F4DAE9;
+}
+
+.si {
+  background-color: #75C5DB;
+}
+
+.sev {
+  background-color: #F6BAB0;
+}
+
+.VRAR {
+  background-color: #fff;
+  border-radius: 90px;
+}
+
+.btn01 {
+  display: inline-block;
+  position: relative;
+  top: 70px;
+  padding: 20px 0px;
+  background-color: #fff;
+  border-radius: 900px;
+  font-size: 26px;
+  font-family: ヒラギノ角ゴ std;
+}
+.btn01 a{
+  color: #231815;
+  padding: 0 50px;
+}
+.btn03{
+  display: inline-block;
+  position: relative;
+  padding: 20px 0px;
+  background-color: #fff;
+  border-radius: 900px;
+  font-size: 26px;
+  font-family: ヒラギノ角ゴ std;
+  text-align: center;
+  left: 150px;
+}
+.btn03 a{
+  color: #231815;
+  padding: 0 50px;
+}
+.btn02{
+  display: inline-block;
+  position: relative;
+  padding: 20px 0px;
+  background-color: #fff;
+  border-radius: 900px;
+  font-size: 26px;
+  font-family: ヒラギノ角ゴ std;
+  text-align: center;
+  left: 330px;
+  margin-bottom: 50px;
+}
+.btn02 a{
+  color: #231815;
+  padding: 0 50px;
+  padding-bottom: 40px;
+}
+.btn04{
+  display: inline-block;
+  position: relative;
+  background-color: #fff;
+  border-radius: 4500px;
+  width: 800px;
+  height: 50px;
+  padding-top: 3px;
+}
+.btn04 a{
+  font-size: 48px;
+  padding: 0 230px;
+}
+.footer img{
+  padding-top: 50px;
+}
+.room{
+  display: flex;
+  overflow-x:scroll ;
+}
+.fi img{
+  margin: 5px 10px;
+  padding-bottom: 25px;
+}
+.kitakousya{
+  padding: 100px;
+  background-color: #F4DAE9;
+}
+.huroa{
+  font-family : 筑紫A丸ゴシック;
+  font-size : 50px;
+  color : #231815;
+}
+.zu{
+  position: relative;
+  padding-bottom: 80px;
+  padding-left: 50px;
+}
