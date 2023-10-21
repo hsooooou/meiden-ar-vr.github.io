@@ -1,1 +1,70 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>VR - メディアライブラリー | 学校施設</title>
 
+   <style>
+    header {
+      position: fixed;
+      z-index: 999;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: auto;
+/*       padding: 0 40px; */
+      background: #efea3a;
+      box-sizing: border-box;
+    }
+    
+    ul {
+      list-style: none;
+    }
+
+    .header ul {
+      display: flex;
+      justify-content: flex-start;
+     /* padding-right:50px; */
+      
+
+    }
+
+    .header li {
+      display: inline-block;
+      padding-right: 30px;
+      font-family: 筑紫A丸ゴシック;
+      text-decoration-line: none;
+
+    }
+
+    .header a {
+        text-decoration: none;
+        color: #231815;
+    }
+  </style>
+   
+   <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+
+ </head>
+ <body>
+
+  <header class="header">
+    <nav>
+      <ul>
+        <li><a href="https://hsooooou.github.io/meiden-ar-vr.github.io/">ホーム</a></li>
+        <li><a href="https://hsooooou.github.io/meiden-ar-vr.github.io/school_facilities.html">学校MAP</a></li>
+        <li><a href="https://hsooooou.github.io/meiden-ar-vr.github.io/vr_information_design.html">◀︎ No.5</a></li>
+        <li><a href="https://hsooooou.github.io/meiden-ar-vr.github.io/vr_music_room.html">No.7 ▶︎</a></li>
+
+      </ul>
+    </nav>
+  </header>
+
+ <a-scene vr-mode-ui="enabled: false;">
+   <a-assets>
+     <img id="panorama" src="https://hsooooou.github.io/meiden-ar-vr.github.io/img/vr/360_corridor.png">
+   </a-assets>
+   <a-sky src="#panorama"></a-sky>
+ </a-scene>
+
+ </body>
