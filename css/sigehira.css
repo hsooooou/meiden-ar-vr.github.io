@@ -69,6 +69,7 @@ header {
   top: 0;
   left: 0;
   width: 100%;
+  height: auto;
   padding: 20px 40px;
   background: #efea3a;
   box-sizing: border-box;
