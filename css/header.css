@@ -1,0 +1,37 @@
+
+    .header {
+      position: fixed;
+      z-index: 999;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: auto;
+/*       padding: 0 40px; */
+      background: #efea3a;
+      box-sizing: border-box;
+    }
+    
+    .ul {
+      list-style: none;
+    }
+
+    .header ul {
+      display: flex;
+      justify-content: flex-start;
+     /* padding-right:50px; */
+      
+
+    }
+
+    .header li {
+      display: inline-block;
+      padding-right: 30px;
+      font-family: 筑紫A丸ゴシック;
+      text-decoration-line: none;
+
+    }
+
+    .header a {
+        text-decoration: none;
+        color: #231815;
+    }
