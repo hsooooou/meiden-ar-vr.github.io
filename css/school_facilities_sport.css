@@ -1,0 +1,980 @@
+.mediaViewInfo {
+	--web-view-name: 学校施設-北校舎 のコピー;
+	--web-view-id: n__;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n__;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n__ {
+	position: absolute;
+	width: 1062.992px;
+	height: 3308.892px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 学校施設-北校舎 のコピー;
+	--web-view-id: n__;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#n_41 {
+	fill: rgba(243,202,228,1);
+}
+.n_41 {
+	position: absolute;
+	overflow: visible;
+	width: 1062.992px;
+	height: 3308.892px;
+	left: 0px;
+	top: 0px;
+}
+#n_45 {
+	fill: rgba(255,255,255,1);
+}
+.n_45 {
+	position: absolute;
+	overflow: visible;
+	width: 1021.688px;
+	height: 114.605px;
+	left: 20.652px;
+	top: 2370.301px;
+}
+#n_73 {
+	position: absolute;
+	width: 629.484px;
+	height: 221.962px;
+	left: 41.833px;
+	top: 161.093px;
+	overflow: visible;
+}
+#n_VR_ {
+	left: 5.484px;
+	top: 104.962px;
+	position: absolute;
+	overflow: visible;
+	width: 625px;
+	white-space: nowrap;
+	line-height: 45.5px;
+	margin-top: -9.75px;
+	text-align: left;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Text {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	line-height: 122.5px;
+	margin-top: -26.25px;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+}
+#n_46 {
+	fill: rgba(144,185,211,1);
+	stroke: rgba(13,11,5,1);
+	stroke-width: 2.235250234603882px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_46 {
+	position: absolute;
+	overflow: visible;
+	width: 106.072px;
+	height: 72.235px;
+	left: 322.189px;
+	top: 2.15px;
+}
+#n_21 {
+	position: absolute;
+	width: 67.263px;
+	height: 37.011px;
+	left: 382.31px;
+	top: 179.738px;
+	overflow: visible;
+}
+#n_36 {
+	fill: rgba(255,255,255,1);
+}
+.n_36 {
+	overflow: visible;
+	position: absolute;
+	width: 32.019px;
+	height: 37.011px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_37 {
+	fill: rgba(255,255,255,1);
+}
+.n_37 {
+	overflow: visible;
+	position: absolute;
+	width: 29.154px;
+	height: 37.011px;
+	left: 38.109px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_89 {
+	position: absolute;
+	width: 1062.992px;
+	height: 774.758px;
+	left: 0px;
+	top: 2534.134px;
+	overflow: visible;
+}
+#n_42 {
+	fill: rgba(229,243,48,1);
+}
+.n_42 {
+	position: absolute;
+	overflow: visible;
+	width: 1062.992px;
+	height: 774.758px;
+	left: 0px;
+	top: 0px;
+}
+#n_43 {
+	fill: rgba(255,255,255,1);
+}
+.n_43 {
+	position: absolute;
+	overflow: visible;
+	width: 963.95px;
+	height: 63.005px;
+	left: 49.521px;
+	top: 584.858px;
+}
+#n_38 {
+	fill: rgba(0,0,0,1);
+}
+.n_38 {
+	overflow: visible;
+	position: absolute;
+	width: 16.268px;
+	height: 27.113px;
+	left: 964.625px;
+	top: 602.804px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MENU {
+	left: 457.495px;
+	top: 53.669px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	line-height: 84px;
+	margin-top: -18px;
+	text-align: center;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#Text_v {
+	left: 479.495px;
+	top: 159.462px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -13.5px;
+	text-align: center;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Text_w {
+	left: 477.495px;
+	top: 239.845px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -13.5px;
+	text-align: center;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Text_x {
+	left: 459.495px;
+	top: 320.228px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: school_facilities.html;
+	cursor: pointer;
+	line-height: 63px;
+	margin-top: -13.5px;
+	text-align: center;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Text_y {
+	left: 434.495px;
+	top: 400.611px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -13.5px;
+	text-align: center;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Text_z {
+	left: 477.495px;
+	top: 480.994px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -13.5px;
+	text-align: center;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#n_47 {
+	fill: rgba(0,0,0,1);
+}
+.n_47 {
+	position: absolute;
+	overflow: visible;
+	width: 193.412px;
+	height: 6.776px;
+	left: 432.219px;
+	top: 111.441px;
+}
+#Text_ {
+	left: 415.495px;
+	top: 601.173px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	line-height: 45.5px;
+	margin-top: -9.75px;
+	text-align: center;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#n_39 {
+	fill: rgba(255,255,255,1);
+}
+.n_39 {
+	overflow: visible;
+	position: absolute;
+	width: 94.664px;
+	height: 34.005px;
+	left: 516.002px;
+	top: 694.291px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_40 {
+	fill: rgba(255,255,255,1);
+}
+.n_40 {
+	overflow: visible;
+	position: absolute;
+	width: 42.239px;
+	height: 33.391px;
+	left: 475.474px;
+	top: 694.153px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_41_ {
+	fill: rgba(255,255,255,1);
+}
+.n_41_ {
+	overflow: visible;
+	position: absolute;
+	width: 9.094px;
+	height: 11.014px;
+	left: 540.497px;
+	top: 693.151px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_42_ {
+	fill: rgba(255,255,255,1);
+}
+.n_42_ {
+	overflow: visible;
+	position: absolute;
+	width: 130.812px;
+	height: 12.645px;
+	left: 476.126px;
+	top: 735.385px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_91 {
+	position: absolute;
+	width: 115.397px;
+	height: 36.88px;
+	left: 104.574px;
+	top: 568.887px;
+	overflow: visible;
+}
+#Text_ba {
+	left: 43.397px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#n_24 {
+	fill: rgba(59,81,163,1);
+}
+.n_24 {
+	position: absolute;
+	overflow: visible;
+	width: 31.396px;
+	height: 31.397px;
+	left: 0px;
+	top: 5.484px;
+}
+#n_92 {
+	position: absolute;
+	width: 151.396px;
+	height: 36.88px;
+	left: 274.144px;
+	top: 568.887px;
+	overflow: visible;
+}
+#Text_bb {
+	left: 43.396px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#n_25 {
+	fill: rgba(124,194,28,1);
+}
+.n_25 {
+	position: absolute;
+	overflow: visible;
+	width: 31.396px;
+	height: 31.397px;
+	left: 0px;
+	top: 5.484px;
+}
+#n_93 {
+	position: absolute;
+	width: 151.397px;
+	height: 36.88px;
+	left: 472.911px;
+	top: 568.887px;
+	overflow: visible;
+}
+#Text_bd {
+	left: 43.397px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#n_26 {
+	fill: rgba(228,78,91,1);
+}
+.n_26 {
+	position: absolute;
+	overflow: visible;
+	width: 31.396px;
+	height: 31.397px;
+	left: 0px;
+	top: 5.484px;
+}
+#n_94 {
+	position: absolute;
+	width: 115.397px;
+	height: 36.88px;
+	left: 655.029px;
+	top: 568.887px;
+	overflow: visible;
+}
+#Text_bg {
+	left: 43.397px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	line-height: 63px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#n_27 {
+	fill: rgba(115,137,131,1);
+}
+.n_27 {
+	position: absolute;
+	overflow: visible;
+	width: 31.396px;
+	height: 31.397px;
+	left: 0px;
+	top: 5.484px;
+}
+#n_76 {
+	position: absolute;
+	width: 1021.688px;
+	height: 114.605px;
+	left: 20.652px;
+	top: 422.743px;
+	overflow: visible;
+}
+#n_44 {
+	fill: rgba(255,255,255,1);
+}
+.n_44 {
+	position: absolute;
+	overflow: visible;
+	width: 1021.688px;
+	height: 114.605px;
+	left: 0px;
+	top: 0px;
+}
+#Text_bk {
+	left: 83.917px;
+	top: 24.622px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: school_facilities.html;
+	cursor: pointer;
+	line-height: 84px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#n_74 {
+	position: absolute;
+	width: 214.317px;
+	height: 65.136px;
+	left: 332.884px;
+	top: 24.622px;
+	overflow: visible;
+}
+#Text_bm {
+	left: 9.73px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	line-height: 84px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#n_48 {
+	fill: rgba(0,0,0,1);
+}
+.n_48 {
+	position: absolute;
+	overflow: visible;
+	width: 214.317px;
+	height: 6.776px;
+	left: 0px;
+	top: 58.359px;
+}
+#Text_bo {
+	left: 104.568px;
+	top: 2394.923px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: school_facilities.html;
+	cursor: pointer;
+	line-height: 84px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#n_90 {
+	position: absolute;
+	width: 214.317px;
+	height: 65.136px;
+	left: 353.536px;
+	top: 2394.923px;
+	overflow: visible;
+}
+#Text_bq {
+	left: 9.73px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	line-height: 84px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#n_49 {
+	fill: rgba(0,0,0,1);
+}
+.n_49 {
+	position: absolute;
+	overflow: visible;
+	width: 214.317px;
+	height: 6.776px;
+	left: 0px;
+	top: 58.36px;
+}
+#n_50 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_50 {
+	position: absolute;
+	overflow: visible;
+	width: 23.488px;
+	height: 110.102px;
+	left: 664.612px;
+	top: 1973.668px;
+}
+#n_51 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_51 {
+	position: absolute;
+	overflow: visible;
+	width: 100.681px;
+	height: 150.765px;
+	left: 664.612px;
+	top: 1824.904px;
+}
+#n_52 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_52 {
+	position: absolute;
+	overflow: visible;
+	width: 100.681px;
+	height: 123.437px;
+	left: 664.612px;
+	top: 1703.467px;
+}
+#n_53 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_53 {
+	position: absolute;
+	overflow: visible;
+	width: 44.402px;
+	height: 114.557px;
+	left: 664.612px;
+	top: 1567.781px;
+}
+#n_54 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(19,10,10,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_54 {
+	position: absolute;
+	overflow: visible;
+	width: 84.328px;
+	height: 161.585px;
+	left: 612.35px;
+	top: 1408.196px;
+}
+#n_55 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(19,10,10,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_55 {
+	position: absolute;
+	overflow: visible;
+	width: 103.602px;
+	height: 177.775px;
+	left: 612.35px;
+	top: 1208.523px;
+}
+#n_43_by {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_43_by {
+	overflow: visible;
+	position: absolute;
+	width: 87.786px;
+	height: 113.786px;
+	left: 737.851px;
+	top: 1296.41px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_44_bz {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_44_bz {
+	overflow: visible;
+	position: absolute;
+	width: 244.684px;
+	height: 378.99px;
+	left: 612.35px;
+	top: 1190.791px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_56 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_56 {
+	position: absolute;
+	overflow: visible;
+	width: 103.602px;
+	height: 19.732px;
+	left: 612.35px;
+	top: 1190.791px;
+}
+#n_45_b {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_45_b {
+	overflow: visible;
+	position: absolute;
+	width: 243.861px;
+	height: 45.802px;
+	left: 612.35px;
+	top: 1147.185px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_46_b {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_46_b {
+	overflow: visible;
+	position: absolute;
+	width: 593.034px;
+	height: 388.995px;
+	left: 241.81px;
+	top: 865.047px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_47_b {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_47_b {
+	overflow: visible;
+	position: absolute;
+	width: 477.395px;
+	height: 286.505px;
+	left: 273.455px;
+	top: 891.411px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_48_b {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_48_b {
+	overflow: visible;
+	position: absolute;
+	width: 649.077px;
+	height: 441.145px;
+	left: 207.958px;
+	top: 825.879px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_57 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_57 {
+	width: 89.93px;
+	height: 188.129px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,328.8485,928.6901) rotate(5.444deg);
+	transform-origin: center;
+}
+#n_58 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_58 {
+	width: 89.93px;
+	height: 188.129px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,427.3593,938.0786) rotate(5.444deg);
+	transform-origin: center;
+}
+#n_59 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_59 {
+	width: 76.098px;
+	height: 120.559px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,530.1515,1011.7044) rotate(5.444deg);
+	transform-origin: center;
+}
+#n_60 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.n_60 {
+	width: 76.098px;
+	height: 120.559px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,613.5108,1019.6488) rotate(5.444deg);
+	transform-origin: center;
+}
+#n_28 {
+	fill: rgba(228,78,91,1);
+}
+.n_28 {
+	position: absolute;
+	overflow: visible;
+	width: 67.81px;
+	height: 67.81px;
+	left: 484.275px;
+	top: 1011.435px;
+}
+#n_72 {
+	position: absolute;
+	width: 1062.992px;
+	height: 113.386px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_61 {
+	fill: rgba(229,243,48,1);
+}
+.n_61 {
+	position: absolute;
+	overflow: visible;
+	width: 1062.992px;
+	height: 113.386px;
+	left: 0px;
+	top: 0px;
+}
+#Meidem-XR {
+	left: 49.101px;
+	top: 28.24px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	line-height: 87.5px;
+	margin-top: -18.75px;
+	text-align: center;
+	font-family: FOT-TsukuARdGothic Std;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(19,10,10,1);
+}
