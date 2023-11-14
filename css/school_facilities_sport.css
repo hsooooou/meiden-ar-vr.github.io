@@ -1,8 +1,11 @@
+* {
+	text-decoration: none;
+	color: #000000;
+}
+
 .mediaViewInfo {
 	--web-view-name: 学校施設-北校舎 のコピー;
 	--web-view-id: n__;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -23,23 +26,11 @@
 	overflow: hidden;
 	--web-view-name: 学校施設-北校舎 のコピー;
 	--web-view-id: n__;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-@keyframes  {
 
 
-}
-@keyframes  {
-
-
-}
-@keyframes  {
-
-
-}
 #n_41 {
 	fill: rgba(243,202,228,1);
 }
