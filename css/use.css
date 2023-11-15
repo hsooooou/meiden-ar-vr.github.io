@@ -1,3 +1,8 @@
+* {
+	text-decoration: none;
+	color: #000000;
+}
+
 .mediaViewInfo {
 	--web-view-name: アートボード 1 のコピー;
 	--web-view-id: n_1_;
