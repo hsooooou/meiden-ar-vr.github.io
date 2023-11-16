@@ -10,7 +10,17 @@
 <link rel="stylesheet" href="https://hsooooou.github.io/meiden-ar-vr.github.io/css/sigehira.css">
 <link rel="stylesheet" href="https://hsooooou.github.io/meiden-ar-vr.github.io/css/header.css">
 <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="https://hsooooou.github.io/meiden-ar-vr.github.io/css/club/club_archery.css">
-<script id="applicationScript" type="text/javascript" src="https://hsooooou.github.io/meiden-ar-vr.github.io/js/club/club_archery.js"></script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'wow0srg',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+  <script id="applicationScript" type="text/javascript" src="https://hsooooou.github.io/meiden-ar-vr.github.io/js/club/club_archery.js"></script>
 </head>
 
   
