@@ -2,6 +2,12 @@
 	text-decoration: none;
 	color: #000000;
   }
+*  {
+	font-family:fot-tsukuardgothic-std, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+
 .mediaViewInfo {
 	--web-view-name: 化学部;
 	--web-view-id: Artboard;
