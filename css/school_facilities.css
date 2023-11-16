@@ -3,6 +3,13 @@
 	color: #000000;
 }
 
+*  {
+	font-family:fot-tsukuardgothic-std, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+
+
 .mediaViewInfo {
 	--web-view-name: 学校施設-北校舎;
 	--web-view-id: n_;
