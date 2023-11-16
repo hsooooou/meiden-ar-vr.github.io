@@ -3,6 +3,12 @@
 	--web-view-id: Artboard;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
+	*  {
+	font-family:fot-tsukuardgothic-std, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+
 }
 :root {
 	--web-view-ids: Artboard;
